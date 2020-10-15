@@ -31,14 +31,26 @@ the text `"Hello World"` in it.
 
 Update your `<App>` component so that it renders your new `Hello` component.
 
-### First Prop
+### Using the Props Object
 
 Update your component so that it accepts a `name` property. Instead of rendering
 `"Hello World"`, your `Hello` component should now render a message with the
 value of `name`.
 
 Update your `Hello` component in `App.js` so that you're passing in a name as
-a props.
+a prop.
+
+### BONUS
+
+Feeling ambitious? 
+
+Copy the array below and paste it into your `App.js` file above the `App` function.
+
+```js
+const names = ['Esin', 'Tabitha', 'Alisha', 'Carlos', 'Jen']
+```
+
+Using the `names` array render a `Hello` component for each instructor in the array.
 
 ## Plagiarism
 
