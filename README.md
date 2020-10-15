@@ -11,8 +11,9 @@ Define a simple `<Hello />` component to practice working with props in React.
 
 ## Instructions
 
-Create a react app in this directory (`lib/hello`) using `create-react-app`.
-Then follow the requirements below.
+1. Create a react app called `hello-react` using `npx create-react-app hello-react` 
+1. Change into the newly created project directory with `cd hello-react`.
+1. Follow the requirements below.
 
 ## Requirements
 
@@ -21,14 +22,14 @@ some data passed in as props.
 
 ### Setup
 
-Create a react app in this directory using `create-react-app`. Then create
-a file called `Hello.js` in the `src/` directory.
+Create a file called `Hello.js` in the `src/` directory.
 
 ### Function Component
 
 Using a function, define a component called `Hello` that renders an `h1` with
-the text `"Hello World"` in it. Update your `<App>` component so that it renders
-your new `Hello` component.
+the text `"Hello World"` in it. 
+
+Update your `<App>` component so that it renders your new `Hello` component.
 
 ### First Prop
 
