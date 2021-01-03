@@ -1,5 +1,7 @@
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
+## SEIR 1130, Jan 4th 2021
+
 # Hello React
 
 Define a simple `<Hello />` component to practice working with props in React.
@@ -47,7 +49,7 @@ Feeling ambitious?
 Copy the array below and paste it into your `App.js` file above the `App` function.
 
 ```js
-const names = ['Esin', 'Tabitha', 'Alisha', 'Carlos', 'Jen']
+const names = ['Eddie Van Halen', 'Jimi Hendrix', 'Wes Montgomery', 'Frank Zappa', 'John Mayer']
 ```
 
 Using the `names` array render a `Hello` component for each instructor in the array.
