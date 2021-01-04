@@ -54,11 +54,18 @@ const names = ['Eddie Van Halen', 'Jimi Hendrix', 'Wes Montgomery', 'Frank Zappa
 
 Using the `names` array render a `Hello` component for each instructor in the array.
 
+--
 
 Create a new directory called Components and create a file within it called Greetings.jsx. 
 1. Connect the Greetings.jsx file to your `Hello.js` file and add the component within the return statement. 
 2. Create an array called welcomeMessages that has mutiple strings on different messages. 
 3. Map over the welcomeMessages array so that it displays all of them. 
+4. Add props to the parameter of the Greetings function and add a prop called newUser in your Greeting component in the `Hello.js` file. 
+5. Set newUser to true. 
+6. Write a ternary opertator so that if the newUser is true it will show the first message. 
+
+
+Import a font from https://fonts.google.com/. 
 
 ## Plagiarism
 
