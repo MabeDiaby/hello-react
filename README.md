@@ -62,7 +62,7 @@ Create a new directory called Components and create a file within it called `Gre
 3. Map over the welcomeMessages array so that it displays all of them. 
 4. Add props to the parameter of the Greetings function and add a prop called newUser in your Greeting component in the `Hello.js` file. 
 5. Set newUser to true. 
-6. Write a ternary opertator so that if the newUser is true it will show the first message. 
+6. Write a ternary opertator so that if the newUser is true it will show a welcomeMessage or it will say 'No User Found'. 
 
 
 Import a font from https://fonts.google.com/. 
