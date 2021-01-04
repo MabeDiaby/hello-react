@@ -14,8 +14,8 @@ Define a simple `<Hello />` component to practice working with props in React.
 ## Instructions
 
 1. Create a react app called `hello-react` using `npx create-react-app hello-react` 
-1. Change into the newly created project directory with `cd hello-react`.
-1. Follow the requirements below.
+2. Change into the newly created project directory with `cd hello-react`.
+3. Follow the requirements below.
 
 ## Requirements
 
@@ -53,6 +53,12 @@ const names = ['Eddie Van Halen', 'Jimi Hendrix', 'Wes Montgomery', 'Frank Zappa
 ```
 
 Using the `names` array render a `Hello` component for each instructor in the array.
+
+
+Create a new directory called Components and create a file within it called Greetings.jsx. 
+1. Connect the Greetings.jsx file to your `Hello.js` file and add the component within the return statement. 
+2. Create an array called welcomeMessages that has mutiple strings on different messages. 
+3. Map over the welcomeMessages array so that it displays all of them. 
 
 ## Plagiarism
 
