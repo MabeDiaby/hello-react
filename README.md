@@ -4,7 +4,7 @@
 
 # Hello React
 
-Define a simple `<Hello />` component to practice working with props in React.
+Create a simple `<Hello ${name}/>` component in React, and then pass the name as props between components.
 
 ## Prerequisites
 
@@ -52,7 +52,9 @@ Copy the array below and paste it into your `App.js` file above the `App` functi
 const names = ['Eddie Van Halen', 'Jimi Hendrix', 'Wes Montgomery', 'Frank Zappa', 'John Mayer']
 ```
 
-Using the `names` array render a `Hello` component for each instructor in the array.
+Using the `names` array, render a `Hello` component for each person in the array.
+
+
 
 This is your chance to play with React before we move on to Hooks next week, use this as a sandbox to nest components, style them as you want (headers, footers, asides), and pass props down as much as you can.
 
