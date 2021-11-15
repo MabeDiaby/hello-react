@@ -13,7 +13,10 @@ Create a simple `<Hello ${name}/>` component in React, and then pass the name as
 
 ## Instructions
 
-1. Create a react app called `hello-react` using `npx create-react-app hello-react` 
+1. Clone this repo into your computer and `cd` into it
+1. Run `git checkout -b dev` to switch your development branch
+1. Run `npx create-react-app .` -- To create a new react app inside this repo.
+1. 
 2. Change into the newly created project directory with `cd hello-react`.
 3. Follow the requirements below.
 
